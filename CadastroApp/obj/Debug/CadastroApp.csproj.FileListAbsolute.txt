@@ -1,0 +1,103 @@
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\bin\Debug\CadastroApp.exe.config
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\bin\Debug\CadastroApp.exe
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\bin\Debug\CadastroApp.pdb
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.csprojAssemblyReference.cache
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.Properties.Resources.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.csproj.GenerateResource.cache
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.csproj.CoreCompileInputs.cache
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.exe
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.pdb
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmLogin.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmPrincipal.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmUsuario.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\bin\Debug\Cadastro.mdf
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\bin\Debug\Cadastro_log.ldf
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmPesquisarUsuario.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmCliente.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmPesquisarCliente.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmFornecedor.resources
+C:\Users\55139\Downloads\ProjetoCadastro (1)\ProjetoCadastro\CadastroApp\obj\Debug\CadastroApp.frmPesquisarFornecedor.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.csprojAssemblyReference.cache
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmCliente.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmFornecedor.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmLogin.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmPesquisarCliente.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmPesquisarFornecedor.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmPesquisarUsuario.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmPrincipal.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmSplashScreen.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmUsuario.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.Properties.Resources.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.csproj.GenerateResource.cache
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\RdlCompile.cache
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\RdlCompile.compiled
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.csproj.CoreCompileInputs.cache
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.exe
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.pdb
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Cadastro.mdf
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Cadastro_log.ldf
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\CadastroApp.exe.config
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\CadastroApp.exe
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\CadastroApp.pdb
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\EnvDTE.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\stdole.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmRelatorioUsuario.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.csproj.CopyComplete
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmRelatorioCliente.resources
+C:\Users\55139\Desktop\CadastroApp\CadastroApp\obj\Debug\CadastroApp.frmRelatorioFornecedor.resources
